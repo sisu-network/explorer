@@ -1,9 +1,9 @@
 {
-  "title": "Desmos Block Explorer",
-  "network": "morpheus-apollo-2",
-  "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
+  "title": "Sisu Block Explorer",
+  "network": "sisu",
+  "icon": "https://sisu.network/assets/logo.e0e1a9e1.svg",
   "logo": {
-    "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
+    "default": "https://sisu.network/assets/logo.e0e1a9e1.svg"
   },
   "prefix": {
     "consensus": "desmosvalcons",

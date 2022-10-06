@@ -1,6 +1,6 @@
 {
-  "title": "Desmos Block Explorer",
-  "network": "desmos-mainnet-1",
+  "title": "Sisu Block Explorer",
+  "network": "sisu",
   "icon": "/desmos/images/icon.svg",
   "logo": {
     "default": "/desmos/images/logo.svg"

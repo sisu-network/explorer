@@ -1,6 +1,5 @@
 import Layout from './layout';
 import Nav from './nav';
-import Footer from './footer';
 import SingleBlockMobile from './single_block_mobile';
 import Avatar from './avatar';
 import AvatarName from './avatar_name';
@@ -33,7 +32,6 @@ import AvatarNameListMsg from './avatar_name_list_msg';
 export {
   Layout,
   Nav,
-  Footer,
   SingleBlockMobile,
   Avatar,
   AvatarName,
